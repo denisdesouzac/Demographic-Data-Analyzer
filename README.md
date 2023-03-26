@@ -13,7 +13,7 @@ When reading data from a CSV file, the project aims to use the pandas library to
 8. What country has the highest percentage of people that earn >50K and what is that percentage?
 9. Identify the most popular occupation for those who earn >50K in India.
 
-The solution was placed in the 'demographic_data_analyzer' file
+The solution was placed in the 'demographic_data_analyzer' file.
 The 'test_module.py' file runs the tests automatically.
 
 More information about the project:https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer
